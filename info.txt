@@ -26,7 +26,7 @@
 /hist - аналог /history, по id
 /setweather - установить погоду по id
 /settime - установить игровое время
-/setskin - визуальная смена скина
+/setvskin - визуальная смена скина
 /cc - очистить чат
 /checkid - узнать информацию о игроке
 /aad - автоподача объявлений
@@ -39,4 +39,4 @@ Alt+End - отмена РП отыгровки/биндера
 /vig - выдача выговора
 /gmenu - меню гос. новостей
 
-© Government Assistant by A. Dwight 2021
+© Government Assistant by A. Dwight 2022
